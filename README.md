@@ -19,3 +19,6 @@ Jetbrains家的产品有一个很良心的地方，他会允许你试用30天（
 点击这个链接(v2.3.5)下载插件的zip包（macOS可能会自动解压，然后把zip包丢进回收站）
 通常可以直接把zip包拖进IDE的窗口来进行插件的安装。如果无法拖动安装，你可以在Settings/Preferences... -> Plugins 里手动安装插件（Install Plugin From Disk...）
 插件会提示安装成功。
+
+
+详情见：https://zhile.io/2020/11/18/jetbrains-eval-reset-deprecated.html
